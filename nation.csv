@@ -1,0 +1,21 @@
+Country,Age,Salary,Purchased
+USA,28,55000,Yes
+Canada,34,,No
+UK,,43000,Yes
+Germany,45,60000,No
+France,29,47000,Yes
+Italy,38,,No
+Spain,30,35000,Yes
+Australia,,70000,No
+India,26,32000,Yes
+China,32,48000,No
+Japan,,50000,Yes
+Brazil,40,40000,No
+South Africa,35,,Yes
+Russia,29,53000,No
+Mexico,,42000,Yes
+Argentina,41,36000,No
+Chile,27,39000,Yes
+Colombia,,44000,No
+Saudi Arabia,33,55000,Yes
+United Arab Emirates,,68000,No
