@@ -1,2 +1,2 @@
 # data-warehouse-mining
- will
+ ## Burn the bridges behind you
